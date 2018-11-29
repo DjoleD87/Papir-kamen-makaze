@@ -1,0 +1,10 @@
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\bin\Release\papir kamen i makaze.exe.config
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\bin\Release\papir kamen i makaze.exe
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\bin\Release\papir kamen i makaze.pdb
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\obj\Release\papir kamen i makaze.csprojAssemblyReference.cache
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\obj\Release\papir_kamen_i_makaze.Form1.resources
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\obj\Release\papir_kamen_i_makaze.Properties.Resources.resources
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\obj\Release\papir kamen i makaze.csproj.GenerateResource.cache
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\obj\Release\papir kamen i makaze.csproj.CoreCompileInputs.cache
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\obj\Release\papir kamen i makaze.exe
+C:\Users\Djole-Ps\source\repos\papir kamen i makaze\papir kamen i makaze\obj\Release\papir kamen i makaze.pdb
